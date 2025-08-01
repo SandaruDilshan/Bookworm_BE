@@ -20,3 +20,7 @@
 ```bash
     openssl rand -base64 32 
 ```
+###### CORN pkg for send server req automatically after evert 14min
+```bash
+    npm i corn 
+```
